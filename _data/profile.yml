@@ -1,0 +1,66 @@
+primary_name: "Yue Feng"
+secondary_name: "冯越"
+navbar_name: "Yue Feng"
+
+positions:
+- name: Ph.D. Student in Artificial Intelligence
+- name: Nanjing University of Aeronautics and Astronautics (NUAA)
+
+email: "fengyue@nuaa.edu.cn"
+gscholar: GTLbVL8AAAAJ
+github: debby-0527
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    I am a second-year Ph.D. student in Artificial Intelligence at 
+    <a href="https://www.nuaa.edu.cn/" target="_blank">Nanjing University of Aeronautics and Astronautics (NUAA)</a>, 
+    advised by Prof. <a href="https://faculty.nuaa.edu.cn/qinjie/zh_CN/" target="_blank">Jie Qin</a> 
+    and co-advised by Prof. <a href="https://wanglimin.github.io/" target="_blank">Limin Wang</a>.
+    I also collaborate closely with Prof. <a href="https://scholar.google.com/citations?user=z84rLjoAAAAJ" target="_blank">Ling Shao</a>,
+    Prof. <a href="https://scholar.google.com/citations?user=D3nE0agAAAAJ" target="_blank">Huchuan Lu</a>,
+    and Prof. <a href="https://hzfu.github.io/" target="_blank">Huazhu Fu</a>.
+    I am currently a research intern at <a href="https://www.tencent.com/" target="_blank">Tencent WeChat</a> (Rhino-Bird Elite Talent Program), working with Dr. <a href="https://scholar.google.com/citations?user=AjxoEpIAAAAJ" target="_blank">Qiang Chen</a>.
+  </p>
+  <p>
+    My research interests lie in <strong>Multimodal Learning</strong> and <strong>Multimodal LLMs</strong>, 
+    with a focus on video understanding, multimodal alignment, trustworthy AI, and spatial intelligence.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: ""
+
+education:
+- name: Nanjing University of Aeronautics and Astronautics
+  position: >-
+    Ph.D. Student in Artificial Intelligence <br/>
+    Advisor: Prof. Jie Qin
+  date: Sep. 2024 - Present
+- name: Nanjing University of Aeronautics and Astronautics
+  position: >-
+    B.S. in Computer Science <br/>
+    GPA: 4.1/5.0, Average: 91/100
+  date: Sep. 2020 - Jun. 2024
+
+experience:
+- name: Tencent WeChat
+  position: >-
+    Research Intern (Rhino-Bird Elite Talent Program) <br/>
+    Advisor: Dr. Qiang Chen
+  date: Jul. 2024 - Present
+
+awards:
+- name: Honorable Mention Award of ACM MM 2023 (Top 1‰, 1/3072)
+  date: 2023
+- name: CSIG Spotlight Paper Award (2/150)
+  date: 2023
+- name: CCF Elite Collegiate Award (100 recipients in China)
+  date: 2022
+- name: National Scholarship
+  date: 2022
+- name: Outstanding Graduate of Jiangsu Province (1 recipient in CS dept.)
+  date: 2024
+- name: Merit Student of Jiangsu Province (3 recipients in CS dept.)
+  date: 2023
+- name: University Achievement Award (10/4896 in NUAA)
+  date: 2024
