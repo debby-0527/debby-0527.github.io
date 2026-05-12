@@ -1,6 +1,6 @@
 ---
 title:          "Training-free Dense Video Captioning with Large-scale Pretrained Models"
-date:           2025-06-01 00:01:00 +0800
+date:           2025-03-01 00:01:00 +0800
 selected:       false
 pub:            "Machine Intelligence Research (MIR)"
 pub_date:       "2025"

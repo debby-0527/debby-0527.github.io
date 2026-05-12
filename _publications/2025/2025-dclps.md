@@ -1,6 +1,6 @@
 ---
 title:          "Doubly Contrastive Learning for Source-Free Domain Adaptive Person Search"
-date:           2025-02-01 00:01:00 +0800
+date:           2025-02-25 00:01:00 +0800
 selected:       false
 pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
 pub_date:       "2025"
