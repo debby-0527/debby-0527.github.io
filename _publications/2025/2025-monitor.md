@@ -10,7 +10,8 @@ authors:
 - S. Yang*
 - Y. Feng*
 - Y. Liu
-- et al.
+- J. Zhang
+- J. Qin
 links:
   Paper: https://arxiv.org
 ---

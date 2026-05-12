@@ -1,5 +1,5 @@
 ---
-title:          "FreeDVC: Training-free Dense Video Captioning with Large-scale Pretrained Models"
+title:          "Training-free Dense Video Captioning with Large-scale Pretrained Models"
 date:           2025-06-01 00:01:00 +0800
 selected:       false
 pub:            "Machine Intelligence Research (MIR)"
@@ -10,7 +10,7 @@ authors:
 - Y. Feng*
 - Z. Yan*
 - Y. Jia
-- Q. Chen
+- E.Q. Chen
 - J. Qin
 links:
   Paper: https://arxiv.org
