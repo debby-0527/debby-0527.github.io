@@ -10,7 +10,7 @@ authors:
 - Y. Feng*
 - Z. Yan*
 - Y. Jia
-- E.Q. Chen
+- Q. Chen
 - J. Qin
 links:
   Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ

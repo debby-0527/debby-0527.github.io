@@ -18,6 +18,7 @@ authors:
 - Y. Jia
 - Q. Chen
 - L. Wang
+- J. Qin
 links:
   Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ
 ---
