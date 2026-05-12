@@ -32,7 +32,7 @@ short_bio: >-
   </p>
 
 # 头像：请将你的照片放到 assets/images/photos/portrait.jpg 然后取消下面的注释
-# portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.png
 
 education:
 - name: Nanjing University of Aeronautics and Astronautics
