@@ -1,6 +1,6 @@
 ---
 title:          "Explainable Forensics of Manipulated Segments in Untrimmed Long Videos"
-date:           2026-05-10 00:01:00 +0800
+date:           2026-05-20 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-A</span>'
