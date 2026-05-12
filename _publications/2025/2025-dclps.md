@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2025"
 abstract: >-
   We propose a doubly contrastive learning framework for source-free domain adaptive person search.
+cover:          /assets/images/covers/dclps.png
 authors:
 - Y. Jia
 - R. Quan

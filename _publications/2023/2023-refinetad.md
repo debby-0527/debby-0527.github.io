@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2023"
 abstract: >-
   We propose RefineTAD, a proposal-free framework for temporal action detection that achieves state-of-the-art performance with a novel refinement mechanism.
+cover:          /assets/images/covers/refinetad.png
 authors:
 - Y. Feng
 - Z. Zhang

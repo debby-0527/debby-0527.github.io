@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2025"
 abstract: >-
   We propose MoniTor, which leverages LLMs with instruction tuning for online video anomaly detection in streaming scenarios.
+cover:          /assets/images/covers/monitor.png
 authors:
 - S. Yang*
 - Y. Feng*

@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-success"
 pub_date:       "2025"
 abstract: >-
   We propose FreeDVC, a training-free framework for dense video captioning that leverages large-scale pretrained models.
+cover:          /assets/images/covers/freedvc.png
 authors:
 - Y. Feng*
 - Z. Yan*

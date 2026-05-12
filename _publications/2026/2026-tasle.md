@@ -7,6 +7,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 pub_date:       "2026"
 abstract: >-
   We propose a framework for explainable forensics of AI-manipulated segments in untrimmed long videos, providing temporal localization and natural language explanations.
+cover:          /assets/images/covers/tasle.png
 authors:
 - Y. Feng*
 - J. Li*
