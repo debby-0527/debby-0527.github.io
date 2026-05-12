@@ -21,7 +21,7 @@ short_bio: >-
     Dr. <a href="https://scholar.google.com/citations?user=G4uCKHcAAAAJ" target="_blank">Wei Ji</a> (Yale),
     and Dr. <a href="https://scholar.google.com/citations?user=wqvr28MAAAAJ" target="_blank">Fei Shen</a> (NUS).
     I am currently a research intern at Tencent WeChat
-    (<a href="https://ur.tencent.com/cooperation/rhino-bird" target="_blank">Rhino-Bird Elite Talent Program</a>),
+    (<a href="https://ur.tencent.com/en/cooperation/rhino-bird" target="_blank">Rhino-Bird Elite Talent Program</a>),
     working with Dr. <a href="https://scholar.google.com/citations?user=R4TEq6sAAAAJ" target="_blank">Qiang Chen</a>.
   </p>
   <p>
@@ -62,13 +62,13 @@ awards:
   date: 2024
 - name: University Achievement Award (10/4896 in NUAA)
   date: 2024
-- name: Honorable Mention Award of ACM MM 2023 (Top 1‰, 1/3072)
-  date: 2023
 - name: CSIG Spotlight Paper Award (2/150)
+  date: 2023
+- name: Honorable Mention Award of ACM MM 2023 (Top 1‰, 1/3072)
   date: 2023
 - name: Merit Student of Jiangsu Province (3 recipients in CS dept.)
   date: 2023
-- name: CCF Elite Collegiate Award (100 recipients in China)
-  date: 2022
 - name: National Scholarship
+  date: 2022
+- name: CCF Elite Collegiate Award (100 recipients in China)
   date: 2022
