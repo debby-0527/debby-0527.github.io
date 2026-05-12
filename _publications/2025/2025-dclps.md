@@ -3,6 +3,7 @@ title:          "Doubly Contrastive Learning for Source-Free Domain Adaptive Per
 date:           2025-02-25 00:01:00 +0800
 selected:       false
 pub:            "AAAI Conference on Artificial Intelligence (AAAI)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-A</span>'
 pub_date:       "2025"
 abstract: >-
   We propose a doubly contrastive learning framework for source-free domain adaptive person search.
@@ -13,5 +14,5 @@ authors:
 - H. Chen
 - J. Qin
 links:
-  Paper: https://arxiv.org
+  Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ
 ---

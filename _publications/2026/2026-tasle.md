@@ -1,8 +1,9 @@
 ---
 title:          "Explainable Forensics of Manipulated Segments in Untrimmed Long Videos"
-date:           2026-04-30 00:01:00 +0800
+date:           2026-05-10 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-A</span>'
 pub_date:       "2026"
 abstract: >-
   We propose a framework for explainable forensics of AI-manipulated segments in untrimmed long videos, providing temporal localization and natural language explanations.
@@ -18,5 +19,5 @@ authors:
 - Q. Chen
 - L. Wang
 links:
-  Paper: https://arxiv.org
+  Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ
 ---
