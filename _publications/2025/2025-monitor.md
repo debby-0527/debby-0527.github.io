@@ -15,5 +15,6 @@ authors:
 - J. Zhang
 - J. Qin
 links:
-  Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ
+  Paper: https://arxiv.org/abs/2510.21449
+  Code: https://github.com/YsTvT/MoniTor
 ---

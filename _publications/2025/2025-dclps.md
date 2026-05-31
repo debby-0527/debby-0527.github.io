@@ -15,5 +15,5 @@ authors:
 - H. Chen
 - J. Qin
 links:
-  Paper: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=GTLbVL8AAAAJ
+  Paper: https://ojs.aaai.org/index.php/AAAI/article/download/32413/34568
 ---
