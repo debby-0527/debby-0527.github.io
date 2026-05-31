@@ -16,5 +16,4 @@ authors:
 - J. Qin
 links:
   Paper: https://arxiv.org/abs/2510.21449
-  Code: https://github.com/YsTvT/MoniTor
 ---
