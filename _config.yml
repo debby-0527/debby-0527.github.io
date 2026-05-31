@@ -1,4 +1,5 @@
 baseurl: "" # username.github.io 不需要 subpath
+timezone: Asia/Shanghai
 
 markdown: kramdown
 plugins:
