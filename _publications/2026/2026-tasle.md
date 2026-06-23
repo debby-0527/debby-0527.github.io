@@ -12,7 +12,7 @@ authors:
 - Y. Feng*
 - J. Li*
 - Q. Lu*
-- W. Ji*
+- W. Ji
 - J. Zhang
 - F. Shen
 - X. Li
